@@ -16,8 +16,7 @@ a variety of 3 hash functions in order to distribute data read in from a file.
 combined and sorted data.
 
 5) The 8 queens problem is one that aims to place 8 queens on a chess table in a layout
-where no one queen can attack the other. There were multiple programming techniques utilized
-in the nuances of these programs.
+where it's impossible for any queen on the board to attack its neighboring queens. There were multiple programming techniques utilized in the nuances of these programs.
 
 6) The extras include a program which sorts data, and a program which calculates data from
 a randomly filled 2-d array.
