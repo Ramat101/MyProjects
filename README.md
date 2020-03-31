@@ -1,4 +1,4 @@
-# MyProjects1
+# MyProjects
 A collection of C++ programs.
 
 Here is a collection of all my recent C++ Projects. All files are included in the master branch, while each
